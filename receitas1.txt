@@ -1,0 +1,25 @@
+omelete;2;ovo;queijo;3;presunto;manteiga;oleo;4;Bata os ovos em um lugar de preferência;Coloque-os na frigideira untada com óleo ou manteiga junto com o queijo e o presunto;Espere-o ficar firme;Vire seu omelete e ele estará pronto para você aproveitar!
+hamburguer;3;pao;carne;queijo;3;alface;cebola;tomate;6;Tempere a sua carne e faça porções de 90 a 100g;Esquente a frigideira;Leve a carne até a frigideira e deixe cada lado em torno de 5 a 6 minutos;Acrescente o queijo em cima do hambúrguer e tampe a frigideira para que ele possa derreter;Finalize o hambúrguer acrescentando a cebola;o tomate e a alface e ele estará delicioso!
+milk shake;2;sorvete;leite;2;calda;chantilly;3;Bata todos os ingredientes, menos a cobertura, no liquidificador;Espalhe um pouco de cobertura em uma taça própria para milk shake;Coloque o milk shake na taça e sirva-se.
+cachorro quente;2;pao;salsicha;3;mostarda;ketchup;batata palha;3;Cozinhe as salsichas;Acrescente-as no pão;Acrescente o ketchup, a mostarda e a batata palha. 
+macarronada;1;macarrao;10;frango;cebola;tomate;coentro;extrato de tomate;milho verde;ervilha;queijo;queijo ralado;presunto;16;Coloque a agua com o sal para ferver;Enquanto isso prepare o molho;Corte a cebola e os tomates (sem as sementes) em pedacos medios;Coloque um pouco de oleo e 1/2 colher de margarina em uma frigideira, deixe esquentar. Acrescente a cebola.;Quando a cebola estiver murcha, acrescente os tomates e o coentro, mexa e deixe mais um pouco no fogo.;Misture o extrato de tomate, desligue o fogo e deixe esfriar.;Depois de frio bata tudo no liquidificador ate tornar-se um molho homogêneo.;Coloque novamente no fogo, para ferver junto com o milho, a ervilha e o frango desfiado. (Fim da preparação do molho);Quando a água ferver acrescente o macarrão e deixe por 10 minutos no fogo.;Depois escorra o macarrão e lave em água fria.;Refoge o macarrão já cozido em 1/2 colher de margarina e depois junte ao molho.;Mexa muito bem para todo o macarrão ficar coradinho.;Unte um refratário com margarina e intercale 2 ou 3 camadas de macarrão, presunto e queijo.;Por cima coloque um pouco de queijo ralado.;Leve ao forno médio, pré-aquecido, por cerca de 10 a 15 minutos.;Sirva quente.
+guacamole;5;abacate;cebola;tomate;limao;2;pimenta;3;Amasse o abacate com um garfo,acrescente o limão e sal a gosto e misture como um purê;Pique a cebola o tomate e o coentro;Acrescente-os ao seu 'purê' e ele estará pronto pra servir.
+tapioca;
+Nome;NumeroDeIngredientesNecessários;IngredientesNecessários...;NumeroDeOpcionais;Opcionais...;NumeroDePassos;Passos...
+misto quente;
+pizza; ; ; ;
+panqueca;
+palha italiana;
+pudim;
+brownie;
+bolo de pote;
+brigadeiro;
+brigadeiro de leite em po;
+brigadeiro de oreo;
+brigadeiro vegano;
+bruaca;
+cartola;
+mousse de limao;
+mousse de maracuja;
+crepioca;
+risoto;
